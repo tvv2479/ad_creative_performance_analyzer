@@ -170,7 +170,7 @@ grouped_imp = grouped_imp.sort_values(by='importance_pct', ascending=False).rese
 
 #%%
 plot=True
-top_n = 20
+top_n = 10
 
 # --- 5. Построение графика ---
 if plot:
